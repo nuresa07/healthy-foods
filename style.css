@@ -107,7 +107,7 @@ header .navbar a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: url(/img/home-bg.jpg);
+  background: url(img/home-bg.jpg);
   background-size: cover;
   background-position: center;
 }
